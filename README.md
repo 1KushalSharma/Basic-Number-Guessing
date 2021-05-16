@@ -1,0 +1,2 @@
+# Basic-Number-Guessing
+Hello everyone this is my second game made using unity This game will try to guess the number you thought of in 5 chances Instructions: 1)Think of a number between 2) if the guessed number is the same as your number click succeed 3)If your number is higher than the guessed number click higher 4) If your number is lower than the guessed number click lower 5)Enjoy, any valuable feedback would be appreciated!! Thanks :)
